@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavithradeevi" alt="pavithradeevi" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Management App**
 
 - 👨‍💻 All of my projects are available at [https://pavithravenkat.netlify.app/](https://pavithravenkat.netlify.app/)
 
