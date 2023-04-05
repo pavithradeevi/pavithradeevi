@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pavithravenkat.netlify.app/](https://pavithravenkat.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive?ths=true](https://drive.google.com/drive/u/0/my-drive?ths=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15R3-u3wqjIrpKqXQr-n1wuk8Ky3k_4HT/view?usp=share_link](https://drive.google.com/file/d/15R3-u3wqjIrpKqXQr-n1wuk8Ky3k_4HT/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
